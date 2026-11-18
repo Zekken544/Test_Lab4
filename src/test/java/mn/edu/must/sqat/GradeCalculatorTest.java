@@ -1,4 +1,4 @@
-
+package mn.edu.must.sqat;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
